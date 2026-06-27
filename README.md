@@ -20,11 +20,13 @@ Here is a breakdown of the mathematical problems explored in this repository:
 * Contains threshold algorithms (using `while` loops) to numerically determine the limits of sequences converging to infinity or a finite limit $\ell$.
 * Includes graphical visualizations of geometric sequences and the convergence of $u_n = \frac{1}{n}$.
 
-### 2. Differential Equations & Euler's Method (`KHALLOUFI_imane_TP6.py`)
+### 2. Differential Equations & Euler's Method (`resolution_par_methodes_numeriques.py`)
+
 * Demonstrates the resolution of first-order differential equations using the Euler method.
 * Compares numerical approximations against exact analytical solutions.
 * Extends the method to a 2D system to model population dynamics, specifically implementing the Lotka-Volterra equations (predator-prey model for rabbits and foxes).
 
+![euler_methode](photos/Methode_Euler.png)
 ### 3. Euler Polynomials Generation (`polynome2.py`)
 * Uses `numpy.polynomial` to recursively generate Euler polynomials.
 * Implements the recursive definition utilizing polynomial integration (`P.integ()`) to compute the coefficients dynamically.
