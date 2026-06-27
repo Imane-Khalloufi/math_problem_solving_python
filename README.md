@@ -39,7 +39,7 @@ Here is a breakdown of the mathematical problems explored in this repository:
 
 
 
-### 4. Recursive Functions & Fractal Curves (`plot.py`)
+### 4. Recursive Functions & Fractal Curves (`suite_de_fonction.py`)
 * Defines a continuous, piecewise linear function (triangle wave) $\Delta(x)$.
 * Constructs a highly recursive function $d(n, x)$ and evaluates the sum $S(x)$ to plot complex, non-differentiable continuous curves (similar to the Takagi/Blancmange curve).
 
