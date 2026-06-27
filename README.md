@@ -18,14 +18,17 @@ Here is a breakdown of the mathematical problems explored in this repository:
 ### 1. Numerical Sequences & Convergence (`KHALLOUFI_imane_TP5_CN.py`)
 * Implements algorithms to evaluate explicit and recursive sequences of the form $u_{n+1} = f(u_n)$.
 * Contains threshold algorithms (using `while` loops) to numerically determine the limits of sequences converging to infinity or a finite limit $\ell$.
-* Includes graphical visualizations of geometric sequences and the convergence of $u_n = \frac{1}{n}$.
+* Includes graphical visualizations of geometric sequences and the convergence of $u_n = \frac{1}{n}$
+
+![Suites](photos/suites.png).
 
 ### 2. Differential Equations & Euler's Method (`resolution_par_methodes_numeriques.py`)
 
 * Demonstrates the resolution of first-order differential equations using the Euler method.
 * Compares numerical approximations against exact analytical solutions.
 * Extends the method to a 2D system to model population dynamics, specifically implementing the Lotka-Volterra equations (predator-prey model for rabbits and foxes).
-* 
+
+ ![euler_methode](photos/Methode_Euler.png)
  ![equa_diff](photos/Resolution_a_deux_variables.png)
 
 
@@ -34,7 +37,7 @@ Here is a breakdown of the mathematical problems explored in this repository:
 * Implements the recursive definition utilizing polynomial integration (`P.integ()`) to compute the coefficients dynamically.
 * Plots the resulting polynomial curves for different iterations.
 
-![euler_methode](photos/Methode_Euler.png)
+
 
 ### 4. Recursive Functions & Fractal Curves (`plot.py`)
 * Defines a continuous, piecewise linear function (triangle wave) $\Delta(x)$.
