@@ -49,6 +49,6 @@ Here is a breakdown of the mathematical problems explored in this repository:
 * Explores functional analysis by implementing an integral operator $T(f, x) = 1 - \int_0^x (x-t)f(t) dt$ using `scipy.integrate.quad`.
 * Applies this operator iteratively to standard functions like the exponential and cosine functions.
 * Visualizes the transformation of the functions over multiple iterations.
-
+![integrals](photos/integration.png)
 ## 💡 Why this repository?
 This repository serves as a personal time capsule of my CPGE years. It reflects my core interest in taking rigorous, theoretical math problems and solving them computationally. Feel free to explore the code!
