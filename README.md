@@ -25,12 +25,16 @@ Here is a breakdown of the mathematical problems explored in this repository:
 * Demonstrates the resolution of first-order differential equations using the Euler method.
 * Compares numerical approximations against exact analytical solutions.
 * Extends the method to a 2D system to model population dynamics, specifically implementing the Lotka-Volterra equations (predator-prey model for rabbits and foxes).
+* 
+ ![equa_diff](photos/Resolution_a_deux_variables.png)
 
-![euler_methode](photos/Methode_Euler.png)
+
 ### 3. Euler Polynomials Generation (`polynome2.py`)
 * Uses `numpy.polynomial` to recursively generate Euler polynomials.
 * Implements the recursive definition utilizing polynomial integration (`P.integ()`) to compute the coefficients dynamically.
 * Plots the resulting polynomial curves for different iterations.
+
+![euler_methode](photos/Methode_Euler.png)
 
 ### 4. Recursive Functions & Fractal Curves (`plot.py`)
 * Defines a continuous, piecewise linear function (triangle wave) $\Delta(x)$.
