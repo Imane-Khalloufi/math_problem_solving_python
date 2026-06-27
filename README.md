@@ -15,7 +15,7 @@ I have a deep passion for problem-solving and algorithmic thinking. These script
 
 Here is a breakdown of the mathematical problems explored in this repository:
 
-### 1. Numerical Sequences & Convergence (`KHALLOUFI_imane_TP5_CN.py`)
+### 1. Numerical Sequences & Convergence (`Les_suites_numeriques.py`)
 * Implements algorithms to evaluate explicit and recursive sequences of the form $u_{n+1} = f(u_n)$.
 * Contains threshold algorithms (using `while` loops) to numerically determine the limits of sequences converging to infinity or a finite limit $\ell$.
 * Includes graphical visualizations of geometric sequences and the convergence of $u_n = \frac{1}{n}$
