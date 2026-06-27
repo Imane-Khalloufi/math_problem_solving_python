@@ -1,13 +1,13 @@
 # math_problem_solving_python
 An archive of Python scripts from my CPGE MPSI-MP years, exploring numerical analysis, differential equations, and algorithmic problem-solving.
 
-# 🧮 CPGE MP - Mathematical Problem Solving & Numerical Analysis
+# CPGE MP - Mathematical Problem Solving & Numerical Analysis
 
 Welcome to this repository ! This project is an archive of various numerical analysis and mathematical problem-solving scripts I developed during my two years of intensive preparation in mathematics and physics (CPGE MPSI-MP). 
 
 I have a deep passion for problem-solving and algorithmic thinking. These scripts highlight my journey in translating abstract mathematical concepts—such as recursive sequences, differential equations, and integral operators—into functional Python code.
 
-## 🛠️ Technologies & Libraries
+##  Technologies & Libraries
 * **Language:** Python
 * **Libraries:** `NumPy`, `Matplotlib`, `SciPy`
 
